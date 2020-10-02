@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Exercise"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise2">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise2"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise2/fast">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise2/fast"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise/fast">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise/fast"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise3">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise3"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise3/fast">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise3/fast"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise4">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise4"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise4/fast">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise4/fast"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise5">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise5"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise5/fast">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise5/fast"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise6">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise6"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise6/fast">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise6/fast"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise7">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise7"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exercise7/fast">
+				<Option output="D:/dev/C&amp;C++/Exercise/cmake-build-debug/Exercise7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/dev/C&amp;C++/Exercise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="d:\document\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise7/fast"/>
+					<CompileFile command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/document/MinGW/bin/mingw32-make.exe -f &quot;D:/dev/C&amp;C++/Exercise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter10/stock01.cpp">
+			<Option target="Exercise2"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter10/stock01.h">
+			<Option target="Exercise2"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter10/stock10.cpp">
+			<Option target="Exercise3"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter10/stock10.h">
+			<Option target="Exercise3"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter10/usestock01.cpp">
+			<Option target="Exercise2"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter10/usestock10.cpp">
+			<Option target="Exercise3"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter11/mytime0.cpp">
+			<Option target="Exercise4"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter11/mytime0.h">
+			<Option target="Exercise4"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter11/mytime1.cpp">
+			<Option target="Exercise5"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter11/mytime1.h">
+			<Option target="Exercise5"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter11/mytime3.cpp">
+			<Option target="Exercise6"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter11/mytime3.h">
+			<Option target="Exercise6"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter11/usetime0.cpp">
+			<Option target="Exercise4"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter11/usetime1.cpp">
+			<Option target="Exercise5"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter11/usetime3.cpp">
+			<Option target="Exercise6"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter12/stringbad.cpp">
+			<Option target="Exercise7"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter12/stringbad.h">
+			<Option target="Exercise7"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/chapter12/usestringbad.cpp">
+			<Option target="Exercise7"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/main.cpp">
+			<Option target="Exercise"/>
+		</Unit>
+		<Unit filename="D:/dev/C&amp;C++/Exercise/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

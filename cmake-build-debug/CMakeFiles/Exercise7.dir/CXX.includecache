@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/dev/C&C++/Exercise/chapter12/stringbad.cpp
+stringbad.h
+D:/dev/C&C++/Exercise/chapter12/stringbad.h
+iostream
+-
+cstring
+-
+
+D:/dev/C&C++/Exercise/chapter12/stringbad.h
+iostream
+-
+

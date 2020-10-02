@@ -1,0 +1,2 @@
+D:\document\MinGW\bin\ar.exe qc libstock01.h.a  CMakeFiles/stock01.h.dir/stock01.cpp.obj
+D:\document\MinGW\bin\ranlib.exe libstock01.h.a
